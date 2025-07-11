@@ -10,15 +10,15 @@ Poniżej znajdziesz szczegółowe omówienie wszystkich podpunktów z rozdziału
 * **Amplituda (A)** to maksymalne wychylenie cząstek ośrodka od pozycji równowagi; odpowiada za głośność. Związek między amplitudą a poziomem ciśnienia akustycznego opisuje równanie:
 
 $$
-  \p(t) = A \sin(2\pi f t + \varphi)
+  p(t) = A \sin(2\pi f t + \varphi)
 $$
 
   gdzie $p(t)$ – ciśnienie w funkcji czasu, $\varphi$ – faza początkowa.
 * **Długość fali (λ)** to odległość, jaką fala przebywa w czasie jednego okresu drgań:
 
-  $$
-    \lambda = \frac{c}{f}
-  $$
+$$
+  \lambda = \frac{c}{f}
+$$
 
   z $c$ – prędkość dźwięku w danym ośrodku (w powietrzu ok. 343 m/s przy 20 °C).
 
