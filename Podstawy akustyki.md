@@ -9,9 +9,9 @@ Poniżej znajdziesz szczegółowe omówienie wszystkich podpunktów z rozdziału
 * **Częstotliwość (f)** mierzy liczbę drgań na sekundę, wyrażana w hercach (Hz). To ona decyduje o wysokości tonu: niskie częstotliwości (np. 20 Hz) brzmią basowo, wysokie (np. 10 kHz) – sopranowo.
 * **Amplituda (A)** to maksymalne wychylenie cząstek ośrodka od pozycji równowagi; odpowiada za głośność. Związek między amplitudą a poziomem ciśnienia akustycznego opisuje równanie:
 
-  $$
-    p(t) = A \sin(2\pi f t + \varphi)
-  $$
+$$
+  \p(t) = A \sin(2\pi f t + \varphi)
+$$
 
   gdzie $p(t)$ – ciśnienie w funkcji czasu, $\varphi$ – faza początkowa.
 * **Długość fali (λ)** to odległość, jaką fala przebywa w czasie jednego okresu drgań:
